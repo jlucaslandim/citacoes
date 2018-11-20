@@ -1,3 +1,4 @@
 "Não há certezas, apenas oportunidades." (V de vigança)
 "É só um exemplo, ser quiser escrever outra coisa." (Gustavo)
 "adiciona e faz o commit." (Gustavo)
+"teste, teste"
